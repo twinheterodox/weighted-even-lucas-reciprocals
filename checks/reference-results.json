@@ -1,0 +1,8 @@
+{
+  "program": "check_three_poles.py",
+  "stdout_lines": [
+    "PASS: all five moment entries at four probe values in both embeddings;",
+    "all four normalized coefficients, their conjugates and integrality;",
+    "and the signed leading coefficient at K=3."
+  ]
+}

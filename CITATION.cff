@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript."
+title: "A weighted reciprocal Lucas sum lies outside ℚ(√5)"
+type: software
+authors:
+  - name: twinheterodox
+repository-code: "https://github.com/twinheterodox/weighted-even-lucas-reciprocals"
+license: Apache-2.0
+preferred-citation:
+  type: report
+  title: "A weighted reciprocal Lucas sum lies outside ℚ(√5)"
+  authors:
+    - name: twinheterodox
+  year: 2026
+  url: "https://github.com/twinheterodox/weighted-even-lucas-reciprocals/blob/main/output/pdf/weighted-even-lucas-reciprocals.pdf"

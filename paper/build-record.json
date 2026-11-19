@@ -1,0 +1,10 @@
+{
+  "source": "paper/weighted-even-lucas-reciprocals.tex",
+  "source_sha256": "ea7ca0f46695f5eabd0ca1df4b1144a2989938439d255bb6499cc7ee101bd75f",
+  "pdf": "output/pdf/weighted-even-lucas-reciprocals.pdf",
+  "pdf_sha256": "7fe4196fe7f527844c8e0cf6b37193fde66853c385e24c2749f737cc934fabd4",
+  "pages": 8,
+  "latex_engine": "pdfTeX 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian)",
+  "unresolved_references": false,
+  "overfull_boxes": false
+}
